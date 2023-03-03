@@ -56,7 +56,7 @@ public class Calculator {
     }
 
     public static void  division(int a, int b) {
-        int r = a / b;
+        double r = a / b;
         System.out.println(r);
     }
 
@@ -66,7 +66,7 @@ public class Calculator {
     }
 
     public static void  division(long a, long b) {
-        long r = a / b;
+        double r = a / b;
         System.out.println(r);
     }
 }
