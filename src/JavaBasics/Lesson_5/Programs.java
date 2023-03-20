@@ -3,7 +3,7 @@ package JavaBasics.Lesson_5;
 import java.util.Arrays;
 
 public class Programs {
-    public static String theLongest(String newText) {
+    public static String TheLongest(String newText) {
         System.out.println("Задание №1");
         String[] textArr = newText.split(" ");
         Arrays.sort(textArr);

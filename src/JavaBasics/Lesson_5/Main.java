@@ -9,7 +9,7 @@ public class Main {
         String textFifth = "This is a test string";
 
 
-        Programs.theLongest(textFirst);
+        Programs.TheLongest(textFirst);
         Programs.Palindrome ("ротор");
         Programs.Censorship(textSecond,"бяка","игры");
         Programs.Insert(textFirst,"игр");
