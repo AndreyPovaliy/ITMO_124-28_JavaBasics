@@ -48,7 +48,8 @@ public class Programs_2 {
         System.out.println("Задание №4");
         int num = 0;
         for (int i = 0; i < array.length; i++) {
-            boolean isUni = true;;
+            boolean isUni = true;
+
             for (int j = 0; j < array.length; j++) {
                 if (array[i] == array[j] && i != j) {
                     isUni = false;
