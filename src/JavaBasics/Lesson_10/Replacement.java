@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Replacement {
 
-    public void Replacement(String text,String path) {
+    public void replacement(String text,String path) {
         ReadFile readFile = new ReadFile();
         WriteFile newFile = new WriteFile();
         List<String> str = readFile.readFile(text);

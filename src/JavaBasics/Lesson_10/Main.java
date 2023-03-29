@@ -11,7 +11,7 @@ public class Main {
         outFile.mergeFile("src/JavaBasics/Lesson_10/text.txt","src/JavaBasics/Lesson_10/text2.txt","src/JavaBasics/Lesson_10/outText.txt");
 
         Replacement changedFile = new Replacement();
-        changedFile.Replacement ("src/JavaBasics/Lesson_10/text.txt","src/JavaBasics/Lesson_10/textChanged.txt");
+        changedFile.replacement ("src/JavaBasics/Lesson_10/text.txt","src/JavaBasics/Lesson_10/textChanged.txt");
 
     }
 }
