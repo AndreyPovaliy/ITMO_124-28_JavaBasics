@@ -9,4 +9,4 @@ public class Main {
         Plane planeSecond = new Plane();
         planeSecond.printInfo(4500);
     }
-
+}
